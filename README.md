@@ -21,4 +21,15 @@ First, use Postman to send a request and check if the response shows a "200 OK" 
 
 
 ## Screenshots
+![EthProject3](https://github.com/user-attachments/assets/b2199d0c-a576-4530-a3ad-6860e2ad1077)
+
+![EthProject1](https://github.com/user-attachments/assets/b943d5c1-a9d7-4f81-92de-19db04cadd9f)
+
+![EthProject2](https://github.com/user-attachments/assets/8a669c49-5a8f-432d-86e8-1e1550f43b5b)
+
+![EthProject4](https://github.com/user-attachments/assets/d088d648-ce19-40e9-a7bf-03853bbe8a91)
+
+![EthProject5](https://github.com/user-attachments/assets/3b609e64-1b4f-402e-a7a9-1f90ecf829be)
+
+![EthProject6](https://github.com/user-attachments/assets/60d7855e-cded-4cbc-9db0-ca3412d41cfa)
 
