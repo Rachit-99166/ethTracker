@@ -5,8 +5,6 @@ The project aims to build an Ethereum Deposit Tracker to monitor and record ETH 
 
 Rachit Dua
 
-21BCE8410
-
 Core CSE
 
 VIT-AP
