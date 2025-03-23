@@ -45,7 +45,7 @@ public class DepositController {
     }
 
     @GetMapping("/deposits/{blockNumber}")
-    public void fetchDepositData(@PathVariable BigInteger blockNumber) throws IOException {
+    public void fetchDepositData(@PathVariable BigInteger blockNumber) throws IOException { 
         ethereumService.fetchDepositData(blockNumber);
     }
 
