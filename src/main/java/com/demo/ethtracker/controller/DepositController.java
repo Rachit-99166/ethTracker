@@ -51,7 +51,7 @@ public class DepositController {
 
     @PostMapping("/webhook")
     public ResponseEntity<String> handleWebhook(@RequestBody String eventData) {
-        try {
+        try { 
             return ResponseEntity.ok(ethereumService.handleDepositParser(eventData));
         } catch (Exception ex) {
             ex.printStackTrace();
