@@ -8,7 +8,7 @@ import org.web3j.protocol.http.HttpService;
 @Configuration
 public class Web3JConfig {
 
-    @Value("${alchemy.url}")
+    @Value("${alchemy.url}") 
     private String alchemyUrl;
     
     @Bean
