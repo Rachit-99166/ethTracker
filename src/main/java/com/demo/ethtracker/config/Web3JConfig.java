@@ -12,7 +12,7 @@ public class Web3JConfig {
     private String alchemyUrl;
     
     @Bean
-    public Web3j web3j() {
+    public Web3j web3j() { 
         return Web3j.build(new HttpService(alchemyUrl));
     }
 }
