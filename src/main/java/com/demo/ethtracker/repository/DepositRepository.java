@@ -6,4 +6,4 @@ import com.demo.ethtracker.entity.Deposit;
 
 @Repository
 public interface DepositRepository extends JpaRepository<Deposit, Long> {
-}
+} 
