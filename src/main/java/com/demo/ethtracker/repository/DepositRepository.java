@@ -4,6 +4,6 @@ import org.springframework.stereotype.Repository;
 
 import com.demo.ethtracker.entity.Deposit;
 
-@Repository
+@Repository 
 public interface DepositRepository extends JpaRepository<Deposit, Long> {
 } 
