@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EthtrackerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EthtrackerApplication.class, args);
+        SpringApplication.run(EthtrackerApplication.class, args); 
     }
 
 }
