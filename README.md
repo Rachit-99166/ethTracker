@@ -9,7 +9,7 @@ Core CSE
  
 VIT-AP
 
- 
+  
 ## 🛠 Skills
 
 H2DB 
