@@ -7,7 +7,7 @@ Rachit Dua
 
 Core CSE
  
-VIT-AP
+VIT-AP 
 
   
 ## 🛠 Skills
