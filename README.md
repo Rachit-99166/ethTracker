@@ -2,7 +2,7 @@
 # EthTracker
 
 The project aims to build an Ethereum Deposit Tracker to monitor and record ETH deposits on the Beacon Deposit Contract using real-time RPC data. It will include error handling, logging, and optional alert mechanisms like Telegram notifications and a Grafana dashboard.
-
+ 
 Rachit Dua
 
 Core CSE
